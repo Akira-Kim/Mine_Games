@@ -1,0 +1,6 @@
+Coloque aqui os arquivos de dados já descritos no código, como:
+- racas.txt
+- classes.txt
+- monstros.txt
+- itens.txt
+Você também pode colocar musica_fundo.mp3 aqui, se quiser música no jogo.

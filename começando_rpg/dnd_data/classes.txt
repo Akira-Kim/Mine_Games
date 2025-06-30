@@ -1,0 +1,5 @@
+Guerreiro|Especialista em combate físico|Ataque Extra, Estilo de Combate|guerreiro.png
+Mago|Usuário de magia arcana|Magia, Recuperação de Magia|mago.png
+Clérigo|Canalizador de poder divino|Magia Divina, Domínio Sagrado|clerigo.png
+Ladino|Especialista em furtividade|Ataque Furtivo, Habilidades|ladino.png
+Bárbaro|Guerreiro selvagem|Fúria, Defesa sem Armadura|barbaro.png
