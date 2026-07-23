@@ -1,1 +1,0 @@
-{"name": "Grupo de Aventureiros", "members": ["Akira", "indy"], "inventory": [], "funds": 100, "reputation": 50, "created_date": "2025-06-29"}

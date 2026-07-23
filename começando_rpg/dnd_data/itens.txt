@@ -1,5 +1,0 @@
-Espada Longa|Arma corpo-a-corpo versátil|Arma|espada.png
-Poção de Cura|Restaura pontos de vida|Consumível|pocao.png
-Cota de Malha|Armadura de metal interligado|Armadura|armadura.png
-Varinha de Magos|Foco para magia arcana|Arcano|varinha.png
-Escudo|Proteção adicional em combate|Defesa|escudo.png

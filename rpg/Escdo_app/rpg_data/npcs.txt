@@ -1,0 +1,1 @@
+{"name": "hjj", "race": "Humano", "occupation": "Mercador", "disposition": "Neutro", "secret": "", "quest_offer": "", "image_path": ""}

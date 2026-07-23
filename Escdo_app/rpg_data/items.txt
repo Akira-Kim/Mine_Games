@@ -1,1 +1,0 @@
-{"name": "ggfg", "type": "Geral", "description": "", "weight": 0.0, "value": 0, "magical": true, "equippable": true, "image_path": "C:/Users/bruno/Downloads/lakeside_residence (2).png"}

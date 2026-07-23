@@ -1,5 +1,0 @@
-Goblin|Pequenas criaturas traiçoeiras|1/4|goblin.png
-Dragão|Poderosos répteis voadores|7|dragao.png
-Esqueleto|Mortos-vivos animados|1/4|esqueleto.png
-Orc|Guerreiros brutais|1/2|orc.png
-Mind Flayer|Criaturas psíquicas alienígenas|7|mindflayer.png

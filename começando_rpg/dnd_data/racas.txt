@@ -1,5 +1,0 @@
-Humano|Adaptáveis e versáteis|+1 em todos os atributos|humano.png
-Elfo|Graciosos e conectados à natureza|Visão no escuro, Imunidade a sono|elfo.png
-Anão|Resistentes e fortes|+2 Constituição, Visão no escuro|anao.png
-Halfling|Pequenos e ágeis|Sortudo, Corajoso|halfling.png
-Dragonborn|Descendentes de dragões|Sopro elementar, Resistência a dano|dragonborn.png
